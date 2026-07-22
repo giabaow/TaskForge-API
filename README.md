@@ -119,7 +119,7 @@ PostgreSQL
 Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/project-tracker-api.git
+git clone https://github.com/giabaow/project-tracker-api.git
 
 cd project-tracker-api
 ```
