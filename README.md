@@ -20,6 +20,9 @@ Browser demo / API client
 
 Every protected endpoint validates a Bearer JWT through FastAPI dependencies. Project edits/deletion are owner-only. Ticket status, priority, and assignee changes create `TicketHistory` rows automatically.
 
+## Demo
+![Alt text](demo/test.png)
+
 ## Project layout
 
 ```text
